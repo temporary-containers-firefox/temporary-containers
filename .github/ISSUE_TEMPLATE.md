@@ -11,7 +11,7 @@
 - Limitation: If you're in a Private Window or "Firefox will: Never remember history" in the Firefox Preferences/Options under "Privacy & Security > History" is selected (known as Permanent Private Mode), then Temporary Containers will not work since Containers aren't available in Private Windows
 -->
 
-- Temporary Containers Version:
+- Temporary Containers+ Version:
 - Firefox Version:
 
 ### Actual behavior

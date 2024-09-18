@@ -165,7 +165,7 @@ export class Cleanup {
     this.debug('[maybeShowNotification] showing notification');
     browser.notifications.create({
       type: 'basic',
-      title: 'Temporary Containers',
+      title: 'Temporary Containers Plus',
       iconUrl: 'icons/page-w-32.svg',
       message,
     });
