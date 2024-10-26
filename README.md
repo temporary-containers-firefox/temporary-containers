@@ -1,4 +1,4 @@
-# Temporary Containers+ Firefox Add-on
+# Temporary Containers Plus Firefox Add-on
 
 [![Temporary Containers Matrix room #tmp:mozilla.org](https://img.shields.io/badge/matrix-%23tmp%3Amozilla.org-blue)](https://matrix.to/#/#tmp:mozilla.org)
 
